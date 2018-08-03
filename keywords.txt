@@ -1,0 +1,12 @@
+
+# KEYWORD1 
+PWM_BitBanging_Port	        KEYWORD1
+ 
+# KEYWORD2 
+PinValue             KEYWORD2
+PORT             KEYWORD2
+DDR             KEYWORD2
+run             KEYWORD2
+setup             KEYWORD2
+
+# KEYWORD3 
