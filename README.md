@@ -1,5 +1,6 @@
 # PWM_BitBanging_Port Library (working progress)
 [https://tinkersprojects.com/](https://tinkersprojects.com/)
+
 This Library is to control all pins on a port as a PWM signal which is known as bit-banging. Bit-banging is when the microcontroller generates the signal and not external hardware. This can work but it mean the microcontroller cannot preform many other tasks. If the microcontroller has other tasks, the PWM bit-banging may not work.
 The PWM signal from this library is not true PWM but implemented correctly, it can make a signal close to it. The signal will not have a much lower frequency from the original PWM but a better one than individual pins. 
 
